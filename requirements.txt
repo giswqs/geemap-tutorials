@@ -1,3 +1,5 @@
 voila
+googledrivedownloader
+xarray_leaflet>=0.1.13
 # geemap
 git+git://github.com/giswqs/geemap.git
